@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('ANA PAULA DE GRADO'   , '236.259.788-89', 1224.0 ,  TIMESTAMP WITH TIME ZONE '2020-05-13T20:50:07.12345Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('RICARDO AUGUSTO MOURA', '134.259.588-14', 3000.0 ,  TIMESTAMP WITH TIME ZONE '2020-01-25T20:50:07.12345Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('PENELOPE MARQUES'     , '036.119.784-42', 6457.0 ,  TIMESTAMP WITH TIME ZONE '2020-01-12T20:50:07.12345Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('JOSE ALDO PEREIRA'    , '116.546.445-79', 1678.0 ,  TIMESTAMP WITH TIME ZONE '2020-03-05T20:50:07.12345Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('ILDA MARTINS'         , '236.259.788-89', 2900.0 ,  TIMESTAMP WITH TIME ZONE '2020-05-09T20:50:07.12345Z', 0 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('ANTONIO SOUZA'        , '322.344.456-32', 7000.0 ,  TIMESTAMP WITH TIME ZONE '2020-08-22T20:50:07.12345Z', 3 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('JEFFERSON DOMINGUES'  , '789.259.789-11', 3600.0 ,  TIMESTAMP WITH TIME ZONE '2020-10-11T20:50:07.12345Z', 3 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('EDUARDO OLIVEIRA'     , '906.690.468-97', 4500.0 ,  TIMESTAMP WITH TIME ZONE '2020-11-13T20:50:07.12345Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('CARLA SILVA'          , '135.900.123-89', 2900.0 ,  TIMESTAMP WITH TIME ZONE '2020-11-19T20:50:07.12345Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birthdate, children ) VALUES ('MARIA TELLES'         , '789.680.444-66', 2800.0 ,  TIMESTAMP WITH TIME ZONE '2020-01-02T20:50:07.12345Z', 0 );
